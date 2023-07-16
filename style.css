@@ -1,0 +1,35 @@
+body {
+    background-color: dimgray;
+}
+
+.slider-wrap .bx-wrapper{
+    margin:0 auto;
+}
+
+
+.slider-nav div {
+    float: left;
+    border: 3px solid #fff;
+}
+
+.slider-nav > div a {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.slider-nav > div a.active {
+    border-bottom: 3px solid #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
